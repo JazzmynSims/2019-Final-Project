@@ -1,0 +1,10 @@
+<h1 id="__codeofblock__"><strong>CODE OF BLOCK</strong></h1>
+
+<p>[initial<em>position = float(input("Enter the object's initial position: "))
+initial</em>velocity = float(input("Enter the object's initial velocity: "))
+acceleration = float(input("Enter the object's acceleration: "))
+time_elapsed = float(input("Enter the object's time elapsed: "))</p>
+
+<p>final<em>position = initial</em>position + initial<em>velocity * time</em>elapsed + 0.5 * acceleration * time_elapsed ** 2</p>
+
+<p>print("\nThe object's final position is", final_position)]()</p>
