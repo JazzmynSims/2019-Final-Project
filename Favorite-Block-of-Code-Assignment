@@ -8,3 +8,5 @@ time_elapsed = float(input("Enter the object's time elapsed: "))</p>
 <p>final<em>position = initial</em>position + initial<em>velocity * time</em>elapsed + 0.5 * acceleration * time_elapsed ** 2</p>
 
 <p>print("\nThe object's final position is", final_position)]()</p>
+
+<p><a href="https://github.com/JazzmynSims/2019-Final-Project/blob/master/5-Random-Facts-About-Jazzmyn">5 Random Facts About Jazzmyn</a></p>
