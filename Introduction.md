@@ -19,4 +19,4 @@ IMAGES OF BATTLE HIGH
 ![BATTLE](https://soa-inc.com/wp-content/uploads/2017/02/Battle-High-School-5-RF.jpg)
 ![BATTLE](https://soa-inc.com/wp-content/uploads/2017/02/Battle-High-School-6-RF.jpg)
 
-#####[Favorite Block of Code](Favorite-Block-of-Code-Assignment)
+##### [Favorite Block of Code](Favorite-Block-of-Code-Assignment)
