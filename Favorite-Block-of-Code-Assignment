@@ -1,12 +1,10 @@
-<h1 id="__codeofblock__"><strong>CODE OF BLOCK</strong></h1>
-
-<p>[initial<em>position = float(input("Enter the object's initial position: "))
-initial</em>velocity = float(input("Enter the object's initial velocity: "))
+# __FAVORITE BLOCK OF CODE__
+[initial_position = float(input("Enter the object's initial position: "))
+initial_velocity = float(input("Enter the object's initial velocity: "))
 acceleration = float(input("Enter the object's acceleration: "))
-time_elapsed = float(input("Enter the object's time elapsed: "))</p>
+time_elapsed = float(input("Enter the object's time elapsed: "))
 
-<p>final<em>position = initial</em>position + initial<em>velocity * time</em>elapsed + 0.5 * acceleration * time_elapsed ** 2</p>
+final_position = initial_position + initial_velocity * time_elapsed + 0.5 * acceleration * time_elapsed ** 2
 
-<p>print("\nThe object's final position is", final_position)]()</p>
 
-<p><a href="https://github.com/JazzmynSims/2019-Final-Project/blob/master/5-Random-Facts-About-Jazzmyn">5 Random Facts About Jazzmyn</a></p>
+print("\nThe object's final position is", final_position)]()
