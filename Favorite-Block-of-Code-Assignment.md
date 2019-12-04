@@ -9,4 +9,4 @@ final_position = initial_position + initial_velocity * time_elapsed + 0.5 * acce
 
 print("\nThe object's final position is", final_position)]()
 
-#####[5 Random Facts About Jazzmyn](5-Random-Facts-About-Jazzmyn)
+#####[5 Random Facts About Jazzmyn](5-Random-Facts-About-Jazzmyn.md)
