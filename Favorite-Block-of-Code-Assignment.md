@@ -1,5 +1,5 @@
 # __FAVORITE BLOCK OF CODE__
-[initial_position = float(input("Enter the object's initial position: "))
+initial_position = float(input("Enter the object's initial position: "))
 initial_velocity = float(input("Enter the object's initial velocity: "))
 acceleration = float(input("Enter the object's acceleration: "))
 time_elapsed = float(input("Enter the object's time elapsed: "))
