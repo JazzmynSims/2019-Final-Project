@@ -1,12 +1,6 @@
 # __FAVORITE BLOCK OF CODE__
-initial_position = float(input("Enter the object's initial position: "))
-initial_velocity = float(input("Enter the object's initial velocity: "))
-acceleration = float(input("Enter the object's acceleration: "))
-time_elapsed = float(input("Enter the object's time elapsed: "))
 
-final_position = initial_position + initial_velocity * time_elapsed + 0.5 * acceleration * time_elapsed ** 2
-
-
-print("\nThe object's final position is", final_position)]()
+import turtle painter = turtle.Turtle() painter.pencolor("navy blue") for i in range(20):
+painter.backward(100) painter.right(200) # Let's go counterclockwise this time painter.pencolor("blue") for i in range(20): painter.forward(100) painter.right(390) turtle.done()
 
 ##### [5 Random Facts About Jazzmyn](5-Random-Facts-About-Jazzmyn.md)
