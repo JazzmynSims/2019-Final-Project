@@ -1,6 +1,6 @@
 # __FAVORITE BLOCK OF CODE__
 
-import turtle 
+ import turtle 
 
 painter = turtle.Turtle() 
 
