@@ -7,7 +7,7 @@
 ---
 ### 4. Jazzmyn has played the Viola for 6 years before retiring from Orchestra.
 ---
-### 5. Jazzmyn had gotten braces twice once for 4 years and currently: 2 months.
+### 5. Jazzmyn had to get braces twice.
 ---
 
 ##### [Introduction](Introduction.md)
