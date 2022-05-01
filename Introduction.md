@@ -2,7 +2,7 @@
 ```
 Hello World! WELCOME!
 ```
-> ### Jazzmyn Sims, 19 was born Febraury 2nd 2001 in Columbia, Missouri. She was born and raised in Columbia with her two older brothers, Darren and Montez who are 12 and 10 years older than her. She is the of daughter of Sellina Sims-Marks and Carlos Sims. 
+> ### Jazzmyn Sims, 21 was born Febraury 2nd 2001 in Columbia, Missouri. She was born and raised in Columbia with her two older brothers, Darren and Montez who are 12 and 10 years older than her. She is the of daughter of Sellina Sims-Marks and Carlos Sims. 
 ```
 HIGH SCHOOL INVOLVEMENT:
 ```
